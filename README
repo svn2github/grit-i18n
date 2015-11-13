@@ -1,2 +1,6 @@
-GRIT (Google Resource and Internationalization Tool) is a tool for Windows
-projects to manage resources and simplify the localization workflow.
+GRIT's code now lives in Chromium's repository at
+https://chromium.googlesource.com/chromium/src/+/master/tools/grit
+
+There is a read-only mirror of just that directory at
+https://chromium.googlesource.com/chromium/src/tools/grit/
+if you don't want to check out all of Chromium.
